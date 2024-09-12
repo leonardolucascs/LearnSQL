@@ -4,5 +4,5 @@
 
 
 
-Notes created with [Hedgedoc](https://hedgedoc.org/) hosted by University of Milan (@ [studentiunimi.it](https://hedgedoc.studentiunimi.it)
+Notes created with [Hedgedoc](https://hedgedoc.org/) hosted by University of Milan (@ [studentiunimi.it](https://hedgedoc.studentiunimi.it) )
 
